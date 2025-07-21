@@ -1,0 +1,13 @@
+#card{
+    padding: 200px;
+    background-color: red;
+    margin:40px 20px 0px 20px;
+    border-radius: 22px;
+}
+#card:hover{
+     transform: scale(1.05);
+    padding: 100px;
+    background-color: blue;
+    margin:40px 20px 0px 20px;
+    border-radius: 52px;
+}

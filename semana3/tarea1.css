@@ -1,0 +1,9 @@
+header{
+    width: 100%;
+    text-align: center;
+}
+#flex{
+  
+    display:flex;
+    flex-direction: row-reverse;
+}

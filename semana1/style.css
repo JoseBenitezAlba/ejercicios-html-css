@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.elemento1{
+    color: blue;
+}
+ul li:nth-child(1){
+    font-size: 1.8em;
+}
+ol li:nth-child(1){
+    font-size: 1.8em;
+}

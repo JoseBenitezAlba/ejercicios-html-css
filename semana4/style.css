@@ -1,0 +1,90 @@
+header h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.menu {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.menu a {
+    border: 3px solid #8B4513;
+    color: #fff8dc;
+    background-color: rgb(116, 134, 117);
+    margin-right: 20px;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.menu a:hover {
+    color: khaki;
+    background-color: #5a5a3c;
+}
+
+.columna {
+    margin-top: 30px;
+}
+
+#proyectos {
+    display: flex;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+#proyectos img {
+    width: 35%;
+}
+
+#proyectos h3 {
+    font-size: 28px;
+    font-style: bold;
+    margin: 2%;
+    margin-bottom: 3%;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.tarjetas {
+    padding: 10%;
+    display: flex;
+    border: 5px solid black;
+    background: #ccc;
+    margin-top: 150px;
+    gap: 20px;
+    /* separación entre los textos */
+    justify-content: center;
+    /* centra la imagen horizontal */
+    align-items: center;
+    /* centra la imagen vertical */
+}
+
+.contact {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+form{
+    text-align: center;
+}
+input[type="name"] {
+  margin-bottom: 2%;
+}
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+input[type="submit"]:hover {
+  background-color: #152016;
+}

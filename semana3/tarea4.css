@@ -1,0 +1,10 @@
+.tarjetas{
+   padding: 10%;
+   display: flex;
+   border: 5px solid black;
+   background: #ccc;
+   margin-top: 150px;
+   gap: 20px;               /* separación entre los textos */
+     justify-content: center; /* centra la imagen horizontal */
+    align-items: center;     /* centra la imagen vertical */
+}

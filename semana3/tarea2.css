@@ -1,0 +1,20 @@
+.Menu{
+    text-align: center;
+}
+.Menu li{
+    display: inline-block;
+    padding: 20px;
+    background-color: yellow;
+    
+}
+.Menu li:hover{
+    background-color: yellowgreen;
+}
+.Menu a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.Menu li:hover a {
+  color: white;
+}
